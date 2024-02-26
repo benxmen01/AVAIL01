@@ -1,1 +1,7 @@
 # AVAIL01
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x2a0F6867400d76a5d18cD6D0720C08870Fc44bB3'
+quorum: 1
